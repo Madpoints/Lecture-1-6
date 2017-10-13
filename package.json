@@ -1,14 +1,14 @@
 {
   "name": "mean-app",
   "version": "1.0.0",
-  "description": "MEAN stock application",
+  "description": "MEAN stack application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madpoints/MEAN-stock-app.git"
+    "url": "git+https://github.com/Madpoints/MEAN-stack-app.git"
   },
   "keywords": [
     "mean"
@@ -16,9 +16,9 @@
   "author": "john",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Madpoints/MEAN-stock-app/issues"
+    "url": "https://github.com/Madpoints/MEAN-stack-app/issues"
   },
-  "homepage": "https://github.com/Madpoints/MEAN-stock-app#readme",
+  "homepage": "https://github.com/Madpoints/MEAN-stack-app#readme",
   "dependencies": {
     "express": "^4.16.2"
   },
